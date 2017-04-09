@@ -1,0 +1,4 @@
+node_modules/
+*.swp
+public/bundle.js
+public/css/style.css
